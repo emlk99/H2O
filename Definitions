@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>Example of an unordered list</title>
+  </head>
+<body>
+  <h1>Unordered List</h1>
+    <p>Unordered lists are lists that have a bullet points.
+      <h2>Oymorons</h2>
+        <ul>
+          <li>Jumbo Shrimp</li>
+          <li>All alone</li>
+          <li>Clean dirt</li>
+          <li>Act naturally</li>
+          <li>Pretty ugly</li>
+          <li>Awfully nice</li>
+          <li>Exact estimate</li>
+          <li>Less is more</li>
+          <li>Larger half</li>
+          <li>Bitter sweet</li>
+        </ul>
+    </p>
+</body>
+</html>
